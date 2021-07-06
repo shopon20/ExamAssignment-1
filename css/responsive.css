@@ -128,7 +128,7 @@
         font-size: 47%;
     }
     .multy-section {
-        width: 42.5%;
+        width: 42%;
         margin-left: 1rem;
     }
     .cvv {
@@ -174,9 +174,6 @@
         width: 100%;
         margin-top: 5rem;
         text-align: center;
-    }
-    .multy-section {
-        width: 42%;
     }
     .left-about p {
         margin: 5rem 0;
