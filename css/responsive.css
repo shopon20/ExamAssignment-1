@@ -311,86 +311,88 @@
     .left-about {
         padding: 3rem 0;
     }
-}
-.left-news {
-	float: none;
-	width: 100%;
-	margin-bottom: 2.8rem;
-}
-.left-news1 {
-	float: none;
-	width: 100%;
-	overflow: hidden;
-}
-.left-news1 img {
 
-	width: 100%;
+    .left-news {
+        float: none;
+        width: 100%;
+        margin-bottom: 2.8rem;
+    }
+    .left-news1 {
+        float: none;
+        width: 100%;
+        overflow: hidden;
+    }
+    .left-news1 img {
+    
+        width: 100%;
+    }
+    .left-news2 {
+        float: none;
+        width: 100%;
+    
+    }
+    .footer1 {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .footer1 span {
+        font-size: 2.2rem;
+    }
+    .all-news-content {
+        padding-top: 10rem;
+        padding-bottom: 20rem;
+    }
+    .right-news {
+        float: none;
+        width: 100%;
+        background: #fff;
+        padding: 1.5rem 0;
+    }
+    .right-news1 {
+        float: none;
+        width: 100%;
+        background: #d9e7ee;
+        padding: 1rem 0;
+        text-align: center;
+    }
+    .right-news2 {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .right-news1 span {
+        font-size: 2.5rem;
+    }
+    .right-news1 p {
+        font-size: 5rem;
+    
+    }
+    .right-news2 a {
+        font-size: 2.3rem;
+    
+    }
+    .right-news2 span {
+        font-size: 2.3rem;
+    }
+    .right-news2 h2 {
+        font-size: 3rem;
+    }
+    .nn h2 {
+        font-size: 3rem;
+    
+    }
+    .zzz {
+        margin-bottom: 4rem;
+    }
+    .zzz1 {
+        margin-top: 7rem;
+    }
+    .zzz2 {
+        margin-top: 11rem;
+    }
 }
-.left-news2 {
-	float: none;
-	width: 100%;
 
-}
-.footer1 {
-	float: none;
-	width: 100%;
-    text-align: center;
-}
-.footer1 span {
-	font-size: 2.2rem;
-}
-.all-news-content {
-    padding-top: 10rem;
-    padding-bottom: 20rem;
-}
-.right-news {
-	float: none;
-	width: 100%;
-	background: #fff;
-	padding: 1.5rem 0;
-}
-.right-news1 {
-	float: none;
-	width: 100%;
-	background: #d9e7ee;
-	padding: 1rem 0;
-	text-align: center;
-}
-.right-news2 {
-	float: none;
-	width: 100%;
-	text-align: center;
-}
-.right-news1 span {
-	font-size: 2.5rem;
-}
-.right-news1 p {
-	font-size: 5rem;
-
-}
-.right-news2 a {
-	font-size: 2.3rem;
-
-}
-.right-news2 span {
-	font-size: 2.3rem;
-}
-.right-news2 h2 {
-	font-size: 3rem;
-}
-.nn h2 {
-	font-size: 3rem;
-
-}
-.zzz {
-	margin-bottom: 4rem;
-}
-.zzz1 {
-	margin-top: 7rem;
-}
-.zzz2 {
-	margin-top: 11rem;
-}
 
 /* ............. */
 .bar{
@@ -526,6 +528,9 @@
     html{
         font-size: 34%;
     }
+    .midle-section {
+        width: 70%;
+    }
 }
 @media all and (max-width:456px){
     html{
@@ -537,7 +542,7 @@
 }
 @media all and (max-width:420px){
     html{
-        font-size: 30%;
+        font-size: 29.5%;
     }
     .left-top-footer .email a {
         margin-right: 2rem;
@@ -554,16 +559,16 @@
 }
 @media all and (max-width:387px){
     html{
-        font-size: 27.5%;
+        font-size: 27%;
     }
     .left-top-footer {
-        width: 65%;
+        width: 66%;
     }
     .left-top-footer .email a {
         margin-right: 1rem;
     }
     .right-top-footer {
-        width: 34%;
+        width: 33%;
     }
     .top-categoury .top-left {
         width: 70%;
@@ -571,14 +576,15 @@
     .top-categoury .top-right {
         width: 30%;
     }
+    .midle-section ul li a {
+        padding: 0 1rem;
+    }
+
+}
+@media all and (max-width:330px){
+    html{
+        font-size: 25%;
+    }
 }
 
-
-
-
-
-
-
-
-
-
+/* end responsive */
