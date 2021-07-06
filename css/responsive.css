@@ -1,0 +1,584 @@
+@media all and (max-width:1920px){
+    html{
+        font-size: 95%;
+    }
+    .fix-width {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+        padding: 0 2rem;
+        box-sizing: border-box;
+    }
+    .left-about {
+        padding: 4rem 3rem;
+    }
+    .left-top-footer {
+        width: 70%;
+    }
+    .right-top-footer {
+        width: 30%;
+    }
+    .first-section {
+        width: 15%;
+    }
+    .midle-section {
+        width: 65%;
+    }
+    .last-section {
+        width: 20%;
+    }
+    .techer-img img {
+        width: 100%;
+    }
+    .left-about p {
+        font-size: 1.5rem;
+        margin: 5.2rem 0;
+    }
+}
+
+@media all and (max-width:1800px){
+    html{
+        font-size: 90%;
+    }
+    .fix-width {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+        padding: 0 2rem;
+        box-sizing: border-box;
+    }
+    .testi-content {
+        padding: 6rem 9rem;
+    }
+}
+@media all and (max-width:1700px){
+    html{
+        font-size: 85%;
+    }    
+}
+
+@media all and (max-width:1600px){
+    html{
+        font-size: 80%;
+    }
+}
+@media all and (max-width:1500px){
+    html{
+        font-size: 75%;
+    }
+}
+@media all and (max-width:1400px){
+    html{
+        font-size: 70%;
+    }
+}
+
+@media all and (max-width:1270px){
+    html{
+        font-size: 62.5%;
+    }
+
+    .fix-width {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+        padding: 0 2rem;
+        box-sizing: border-box;
+    }
+    .left-about {
+        padding: 5rem 3rem;
+    }
+
+}
+@media all and (max-width:1200px){
+    .left-about p {
+        margin: 5rem 0;
+    }
+    .left-about {
+        padding: 3rem 3rem;
+    }
+    html{
+        font-size: 60%;
+    }
+    .footer-to-top-icon {
+        top: 94%;
+    }
+}
+@media all and (max-width:1024px){
+    html{
+        font-size: 53%;
+    }
+
+}
+
+@media all and (max-width:900px){
+    html{
+        font-size: 49%;
+    }
+    .left-question {
+        padding: 2rem;
+    }
+    .footer-to-top-icon {
+        top: 95%;
+    }
+}
+
+@media all and (max-width:825px){
+    html{
+        font-size: 47%;
+    }
+    .multy-section {
+        width: 43%;
+        margin-left: 1rem;
+    }
+    .cvv {
+        width: 43%;
+        margin-left: 25rem;
+    }
+    .courses-section {
+        float: left;
+        width: 43%;
+        border: .1rem solid #ddd;
+        padding: 2rem;
+        border-radius: 1rem;
+        margin-right: 2rem;
+    }
+    .courses-section {
+        width: 44%;
+        padding: 1rem;
+        border-radius: 1rem;
+    }
+    .footer-to-top-icon {
+        top: 96%;
+    }
+    .left-about p {
+        margin: 5rem 0;
+    }
+    .nn h2 {
+        margin: 1.5rem 0;
+    }
+
+}
+
+@media all and (max-width:760px){
+    html{
+        font-size: 45%;
+    }
+    .left-newslater {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .right-newslater {
+        float: none;
+        width: 100%;
+        margin-top: 5rem;
+        text-align: center;
+    }
+    .multy-section {
+        width: 42%;
+    }
+    .left-about p {
+        margin: 5rem 0;
+    }
+    
+
+}
+@media all and (max-width:710px){
+    html{
+        font-size: 42%;
+    }
+    .courses-section {
+        width: 96%;
+        padding: 1rem;
+        border-radius: 1rem;
+        margin-right: 0;
+    }
+    .course-img img {
+        width: 100%;
+    }
+    .techer-img {
+        float: none;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    .techer-content {
+        top: 26rem;
+        left: 26rem;
+    }
+    .techer-content h2 {
+        font-size: 6.5rem;
+    }
+    .techer-content p {
+        font-size: 5.5rem;
+
+    }
+    .techer-content ul li a {
+        padding: 0 3rem;
+        font-size: 3.3rem;
+        margin: 3rem 0;
+    }
+    .first-section .logo img {
+        width: 10rem;
+    }
+    .first-section {
+        width: 100%;
+        text-align: center;
+    }
+    .ul2 {
+        margin-left: 39rem;
+    }
+    .last-section {
+        width: 30%;
+    }
+    .midle-section ul li ul {
+        top: 130%;
+    }
+    .shopon {
+        top: 130%;
+    }
+    .left-about p {
+        margin: 4rem 0;
+    }
+    .bottom-foot1 {
+        width: 15%;
+    }
+    .bottom-foot2 {
+        width: 60%;
+    }
+    .bottom-foot3 {
+        width: 25%;
+    }
+    .bottom-foot1 img {
+        width: 50%;
+        padding-bottom: 2rem;
+        margin-top: 0rem;
+    }
+    .right-testi {
+        float: none;
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .left-testi {
+        float: none;
+        width: 100%;
+    }
+    .left-question {
+        float: none;
+        width: 96%;
+    }
+    .right-question img {
+        width: 100%;
+    }
+    .right-question {
+        float: none;
+        width: 100%;
+    }
+    .asw {
+        width: 100%;
+        position: unset;
+        margin: 5rem 0;
+        text-align: center;
+        padding: 5rem 0;
+    }
+    .apply-right {
+        float: none;
+        width: 100%;
+    }
+    .apply-left {
+        float: none;
+        width: 100%;
+    }
+    .left-about {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .right-about {
+        float: none;
+        width: 100%;
+        padding: 0 0;
+        position: relative;
+        top: -9;
+    }
+    .ri-about-2 p {
+        font-size: 2rem;
+        font-weight: normal;
+    }
+    .banner-section {
+        padding: 15rem 0;
+    }
+    .left-about {
+        padding: 3rem 0;
+    }
+}
+.left-news {
+	float: none;
+	width: 100%;
+	margin-bottom: 2.8rem;
+}
+.left-news1 {
+	float: none;
+	width: 100%;
+	overflow: hidden;
+}
+.left-news1 img {
+
+	width: 100%;
+}
+.left-news2 {
+	float: none;
+	width: 100%;
+
+}
+.footer1 {
+	float: none;
+	width: 100%;
+    text-align: center;
+}
+.footer1 span {
+	font-size: 2.2rem;
+}
+.all-news-content {
+    padding-top: 10rem;
+    padding-bottom: 20rem;
+}
+.right-news {
+	float: none;
+	width: 100%;
+	background: #fff;
+	padding: 1.5rem 0;
+}
+.right-news1 {
+	float: none;
+	width: 100%;
+	background: #d9e7ee;
+	padding: 1rem 0;
+	text-align: center;
+}
+.right-news2 {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.right-news1 span {
+	font-size: 2.5rem;
+}
+.right-news1 p {
+	font-size: 5rem;
+
+}
+.right-news2 a {
+	font-size: 2.3rem;
+
+}
+.right-news2 span {
+	font-size: 2.3rem;
+}
+.right-news2 h2 {
+	font-size: 3rem;
+}
+.nn h2 {
+	font-size: 3rem;
+
+}
+.zzz {
+	margin-bottom: 4rem;
+}
+.zzz1 {
+	margin-top: 7rem;
+}
+.zzz2 {
+	margin-top: 11rem;
+}
+
+/* ............. */
+.bar{
+    display: none;
+}
+.bar-2{
+    display: none;
+}
+.check{
+    display: none;
+}
+/* ............. */
+
+@media all and (max-width:615px){
+    html{
+        font-size: 40%;
+    }
+    .midle-section ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .bar {
+        position: absolute;
+        top: 8rem;
+        pointer-events: none;
+        left: 2.5rem;
+        height: 4rem;
+        width: 4rem;
+        font-size: 4rem;
+        color: rebeccapurple;
+        cursor: pointer;
+        display: block;
+    } 
+    .check{
+        height: 30px;
+        width: 30px;
+        display: block;
+        opacity: 0;
+        cursor: pointer;
+    }
+    .midle-section ul li ul li {
+        background: #ddd;
+    }
+
+    .midle-section .check:checked ~ ul{
+        opacity: 1;
+        visibility: visible;
+        height: 100%;
+    }
+    
+    .bar-2 {
+        position: absolute;
+        top: 8rem;
+        height: 4rem;
+        width: 4rem;
+        font-size: 4rem;
+        display: block;
+        left: 2.2rem;
+        pointer-events: none;
+        opacity: 0;
+        visibility: hidden;
+        color: rebeccapurple;
+    } 
+    .midle-section  .check:checked ~ .bar-2{
+        opacity: 1;
+        visibility: visible;
+        height: 100%;
+    }
+    .midle-section  .check:checked ~ .bar{
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .banner-content {
+        width: 50%;
+    }
+    .multy-section {
+        float: none;
+        width: 92%;
+        margin-bottom: 2rem;
+        margin-right: 0;
+    }
+    .cvv {
+        margin-left: 1rem;
+    }
+    .miltyple-categoury {
+        margin-left: 0;
+    }
+    .right-multy {
+        width: 60%;
+        text-align: center;
+    }
+    .right-multy h3 {
+        font-size: 3rem;
+    }
+    .right-multy p {
+        font-size: 2rem;
+    }
+    .left-multy-img {
+        width: 8rem;
+        height: 8rem;
+        text-align: center;
+        line-height: 12rem;
+    }
+}
+
+@media all and (max-width:565px){
+    html{
+        font-size: 37%;
+    }
+    .bottom-foot1 {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .bottom-foot1 img {
+        width: 17%;
+    }
+    .bottom-foot2 {
+        width: 70%;
+    }
+    .bottom-foot2 p {
+        font-size: 1.8rem;
+    }
+    .bottom-foot3 {
+        width: 30%;
+        text-align: center;
+    }
+}
+
+@media all and (max-width:500px){
+    html{
+        font-size: 34%;
+    }
+}
+@media all and (max-width:456px){
+    html{
+        font-size: 32%;
+    }
+    .banner-content {
+        width: 60%;
+    }
+}
+@media all and (max-width:420px){
+    html{
+        font-size: 30%;
+    }
+    .left-top-footer .email a {
+        margin-right: 2rem;
+    }
+    .left-top-footer .location {
+        margin-left: 1rem;
+    }
+    .left-top-footer {
+        width: 65%;
+    }
+    .right-top-footer {
+        width: 35%;
+    }
+}
+@media all and (max-width:387px){
+    html{
+        font-size: 27.5%;
+    }
+    .left-top-footer {
+        width: 65%;
+    }
+    .left-top-footer .email a {
+        margin-right: 1rem;
+    }
+    .right-top-footer {
+        width: 34%;
+    }
+    .top-categoury .top-left {
+        width: 70%;
+    }
+    .top-categoury .top-right {
+        width: 30%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
