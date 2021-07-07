@@ -411,8 +411,9 @@ a{
 }
 .left-about p {
 	font-size: 1.5rem;
-	margin: 4.5rem 0;
+	margin: 2rem 0;
     color: #7c7771;
+    line-height: 2rem;
 }
 
 .about2-img{
@@ -525,7 +526,7 @@ a{
 	height: 6rem;
 	color: #d0eef4;
 	text-align: center;
-	line-height: 10rem;
+	line-height: 8.5rem;
 	border-radius: 20rem;
     background: #d0eef4;
 }
@@ -592,7 +593,7 @@ a{
 
 .footer1{
     float: left;
-    width: 90%;
+    width: 70%;
 }
 
 .footer1 p {
@@ -931,7 +932,7 @@ a{
     float: right;
     width: 60%;
     background: #e4f3f7;
-    padding: 1rem 0;
+    padding: 1.4rem 0;
 }
 
 .nn{
