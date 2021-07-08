@@ -302,11 +302,12 @@
         width: 100%;
     }
     .asw {
-        width: 100%;
+        width: 75%;
         position: unset;
         margin: 5rem 0;
         text-align: center;
         padding: 5rem 0;
+        margin: auto;
     }
     .apply-right {
         float: none;
