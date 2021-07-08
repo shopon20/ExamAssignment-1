@@ -373,10 +373,11 @@
     }
     .right-news1 {
         float: none;
-        width: 100%;
+        width: 95%;
         background: #d9e7ee;
         padding: 1rem 0;
         text-align: center;
+        margin: auto;
     }
     .right-news2 {
         float: none;
@@ -406,12 +407,13 @@
     }
     .zzz {
         margin-bottom: 4rem;
+        margin-top: 15rem;
     }
     .zzz1 {
-        margin-top: 7rem;
+        margin-top: 20rem;
     }
     .zzz2 {
-        margin-top: 11rem;
+        margin-top: 25rem;
     }
     .left-multy-img img {
         width: 50%;
@@ -445,16 +447,16 @@
         top: 8rem;
         pointer-events: none;
         left: 2.5rem;
-        height: 4rem;
-        width: 4rem;
-        font-size: 4rem;
+        height: 3rem;
+        width: 3rem;
+        font-size: 3rem;
         color: rebeccapurple;
         cursor: pointer;
         display: block;
     } 
     .check{
-        height: 30px;
-        width: 30px;
+        height: 3.5rem;
+        width: 3.5rem;
         display: block;
         opacity: 0;
         cursor: pointer;
@@ -466,22 +468,22 @@
     .midle-section .check:checked ~ ul{
         opacity: 1;
         visibility: visible;
-        height: 100%;
+        height: auto;
     }
     
     .bar-2 {
         position: absolute;
         top: 8rem;
         height: 4rem;
-        width: 4rem;
-        font-size: 4rem;
+        width: 3rem;
+        font-size: 3rem;
         display: block;
-        left: 2.2rem;
+        left: 2.5rem;
         pointer-events: none;
         opacity: 0;
         visibility: hidden;
         color: rebeccapurple;
-    } 
+    }
     .midle-section  .check:checked ~ .bar-2{
         opacity: 1;
         visibility: visible;
@@ -550,6 +552,10 @@
     .bottom-foot3 {
         width: 30%;
         text-align: center;
+    }
+    .techer-content {
+        top: 26rem;
+        left: 22rem;
     }
 }
 
