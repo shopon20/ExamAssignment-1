@@ -408,16 +408,20 @@
     }
     .zzz {
         margin-bottom: 4rem;
-        margin-top: 15rem;
+        margin-top: 0;
     }
     .zzz1 {
-        margin-top: 20rem;
+        margin-top: 8rem;
     }
     .zzz2 {
-        margin-top: 25rem;
+        margin-top: 12rem;
     }
     .left-multy-img img {
         width: 50%;
+    }
+    .footer1 {
+        float: none;
+        width: 100%;
     }
 }
 
