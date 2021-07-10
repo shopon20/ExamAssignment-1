@@ -419,10 +419,6 @@
     .left-multy-img img {
         width: 50%;
     }
-    .footer1 {
-        float: none;
-        width: 100%;
-    }
 }
 
 
@@ -533,6 +529,14 @@
     .left-multy-img img {
         width: 50%;
     }
+    .last-section {
+        width: 30%;
+        text-align: end;
+    }
+    .md-jhs{
+        display: none;
+    }
+
 }
 
 
@@ -623,7 +627,12 @@
 }
 @media all and (max-width:330px){
     html{
-        font-size: 25%;
+        font-size: 24%;
+    }
+}
+@media all and (max-width:300px){
+    html{
+        font-size: 22%;
     }
 }
 
