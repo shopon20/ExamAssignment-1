@@ -53,6 +53,7 @@
     .left-about p {
         margin: 4rem 0;
     }
+    
 }
 @media all and (max-width:1700px){
     html{
@@ -633,6 +634,11 @@
 @media all and (max-width:300px){
     html{
         font-size: 22%;
+    }
+}
+@media all and (max-width:280px){
+    html{
+        font-size: 20%;
     }
 }
 
