@@ -125,7 +125,7 @@ a{
 /* end top footer section */
 
 .header-section {
-	background: rgb(236, 234, 234);
+	background:#ffffff;
 	padding: 1.5rem 0;
     position: sticky;
     top: 0;
@@ -212,7 +212,7 @@ a{
     top: 145%;
     left: 0;
     width: 20rem;
-    background: #ddd;
+    background: #ffffff;
     opacity: 0;
     visibility: hidden;
     transform: scaleY(0);
@@ -236,7 +236,7 @@ a{
 .midle-section ul li ul li ul {
 	position: absolute;
 	z-index: -1;
-	background: #ddd !important;
+	background: #ffffff !important;
 	top: 0;
 	left: -100%;
     visibility: hidden !important;
@@ -270,7 +270,7 @@ a{
     background: #1dabe7;
 	width: 21rem;
 	top: 145%;
-	left: -200%;
+	left: -280%;
     padding: 2rem 1rem;
     z-index: 1;
 }
@@ -438,6 +438,7 @@ a{
 	text-align: center;
 	background: #21a7d0;
 	padding: 1.5rem;
+    color: white;
 }
 .ri-about-1 {
 	float: left;
@@ -464,9 +465,9 @@ a{
 }
 /* end about section */
 
-.catt{
-    background: #cdd0d1;
-    padding: 4rem 0;
+.category-section{
+    background: #f3f8f9;
+    /* padding: 4rem 0; */
 }
 .top-categoury{
     padding-top: 3rem;
@@ -529,8 +530,14 @@ a{
 	line-height: 8.5rem;
 	border-radius: 20rem;
     background: #d0eef4;
+    transition: .4s;
 }
-
+.multy-section:hover .left-multy-img{
+    background: rgb(252, 244, 244);
+}
+.multy-section:hover .left-multy-img img{
+    font-size: 80%;
+}
 .right-multy{
     float: left;
     width: 70%;
@@ -552,9 +559,6 @@ a{
 
 .all-courses{
     padding: 1rem 0;
-}
-.aaa{
-    padding-top: 5rem;
 }
 
 .courses-section {
@@ -621,12 +625,9 @@ a{
 /* end course section */
 
 .apply-section2{
-    padding: 3rem 0;
-
-}
-.apply-content{
     background: #d8f0f5;
 }
+
 .apply-left{
     float: left;
     width: 50%;
@@ -760,7 +761,10 @@ a{
 }
 /* end question section */
 
-
+.teachers-section{
+    background: #f3f8f9;
+    padding: 6rem 0;
+}
 .icon {
 	font-size: 2.2rem;
 	color: #686869;
@@ -907,14 +911,16 @@ a{
 	border-radius: 20rem;
     cursor: pointer;
 }
+.testi-img img{
+    border-radius: 50%;
+}
 
 /* end testimonial section */
 
-.newss{
+.news-section{
     margin-top: 5rem ;
     background:url(./img/ia_400000070.jpg) no-repeat;
     background-size: cover;
-    padding: 10rem 0;
 }
 .all-news-content{
     padding: 10rem 0;
@@ -1044,7 +1050,7 @@ a{
 
 /* end news section */
 
-.fott{
+.footer-section{
     background: url(./img/ia_400000072.png) no-repeat;
     background-size: 100% 100%;
     padding-top: 5rem ;
